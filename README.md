@@ -3,7 +3,7 @@ Projects I made while in TripleTen bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | Fresh Beats User Data| The project task was to analyze user data and find possible ways to get more users to transfer into paid subscriptions|
+| 2 | [FreshBeats](https://docs.google.com/spreadsheets/d/1afEMUIwP1EyZEyinnxxq8MQfKFO3k3XRjwlCJ19lAK8/edit?usp=sharing)| The project task was to prepare a report that gives insight into the ganres interests and patterns of users of this platform and where to solicit more artists|
+| 3 | Pivot tables & Charts | The project was to make visulizations based upon pivot tables to be able to make educated assessments|
+| 4 | Focused Marketing Customer Retantion Strategies | The project task was to create a professional report suitable for stakeholders |
