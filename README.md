@@ -1,7 +1,7 @@
-# Data_projects_TripleTen
+# Data_project_TripleTen_#1
 Projects I made while in TripleTen bootcamp.
 
-| Project number | Title | Description |
+| Step | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Fresh Beats User Data| The project task was to analyze user data and find possible ways to get more users to transfer into paid subscriptions|
 | 2 | [FreshBeats](https://docs.google.com/spreadsheets/d/1afEMUIwP1EyZEyinnxxq8MQfKFO3k3XRjwlCJ19lAK8/edit?usp=sharing)| The project task was to prepare a report that gives insight into the ganres interests and patterns of users of this platform and where to solicit more artists|
