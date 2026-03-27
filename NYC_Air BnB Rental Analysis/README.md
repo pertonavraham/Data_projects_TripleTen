@@ -4,6 +4,7 @@ This repository contains a comprehensive data analysis of the Manhattan rental m
 
 ## Project Overview
 The primary goal of this analysis is to determine which Manhattan neighborhoods are most worthwhile for real estate investment. By analyzing rental attractiveness (defined by review volume) and revenue potential, this project provides a data-driven roadmap for property acquisition.
+* Avraham Perton nyc_airbnb_data_v2: https://docs.google.com/spreadsheets/d/1R6I-wysNlAmmUWrgq7KIKusjLB_wqGyl5IxLRB8WuDo/edit?usp=sharing
 
 ## Key Features
 *   **Neighborhood Tiering:** Identification of the top 10 neighborhoods based on rental frequency and total reviews.
