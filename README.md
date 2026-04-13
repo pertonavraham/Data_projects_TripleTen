@@ -3,7 +3,7 @@ Projects I made while in TripleTen bootcamp.
 
 | Step | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [FreshBeats](https://github.com/pertonavraham/Data_projects_TripleTen/tree/main/FreshBeats) | | The project task was to prepare a report that gives insight into the ganres interests and patterns of users of this platform and where to solicit more artists|
+| 0 | [FreshBeats](https://github.com/pertonavraham/Data_projects_TripleTen/tree/main/FreshBeats) | The project task was to prepare a report that gives insight into the ganres interests and patterns of users of this platform and where to solicit more artists|
 | 1 | [NYC_Air BnB Rental Analysis](https://github.com/pertonavraham/Data_projects_TripleTen/tree/main/NYC_Air%20BnB%20Rental%20Analysis) | Cleaned raw data, created pivot table, used advanced formulas and functions. Executive summary included|
 | 2 | [SQL Startup Trends](https://docs.google.com/spreadsheets/d/1afEMUIwP1EyZEyinnxxq8MQfKFO3k3XRjwlCJ19lAK8/edit?usp=sharing) | Utilized complex relational joins, subqueries, and CASE statements across seven interconnected tables to correlate institutional funding tiers with company success metrics. Aggregated global investment totals and cross-referenced, identified key drivers of market volatility and capital concentration|
 | 3 | Pivot tables & Charts | The project was to make visulizations based upon pivot tables to be able to make educated assessments|
