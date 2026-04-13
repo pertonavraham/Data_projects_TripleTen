@@ -4,6 +4,7 @@ This repository contains a series of complex SQL queries designed to extract str
 
 ## Project Overview
 The primary objective of this project is to leverage relational data to understand the drivers of startup success and investment activity. By querying multiple interconnected tables—including `company`, `acquisition`, `fund`, and `people`—the analysis provides a granular look at market dynamics and institutional behavior.
+SQL Formulas: https://docs.google.com/document/d/1Cin02y-sf5MP-YSq53U97BvUH1a79rvCCAA66tnrZPY/edit?tab=t.0
 
 ## Key Features
 *   **Company Status Tracking:** Automated count of defunct companies to assess market volatility.
