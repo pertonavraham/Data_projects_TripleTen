@@ -6,6 +6,7 @@ This repository contains a comprehensive data analysis of product return pattern
 The core objective of this analysis is to diagnose the primary drivers of high return rates. By cross-referencing sales volume with calculated return percentages, the study highlights critical "danger zones" in the supply chain, particularly within the Technology and Furniture categories.
 
 Tableau Pages: https://docs.google.com/document/d/1wlzUFS7UmdAUBAFKUo2VoF5Gdv2G00c4DKCIjtj9oXE/edit?usp=sharing
+
 Tableau Public link: https://public.tableau.com/views/Sprint5TripleTenPojectAvrahamPerton/Salesvs_Returns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Key Features
 *   **Product Performance Benchmarking:** Identification of sub-categories with disproportionately high return rates, led by **Machines (35%)** and **Fasteners (32%)**.
