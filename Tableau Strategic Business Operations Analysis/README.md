@@ -5,6 +5,8 @@ This repository contains a comprehensive data analysis and strategic roadmap for
 ## Project Overview
 The primary goal of this analysis is to identify "Profit Centers" and "Loss Makers" within the product catalog. The study offers specific directives on which categories to scale and which to decommission to maximize overall net margin.
 
+Tableau Worksheets charts: https://docs.google.com/document/d/1gue-WHnrB1t1YEXw3XXvLTW_VyNuvhmHiNlOQKsabMQ/edit?usp=sharing
+Tableau Public link: https://public.tableau.com/views/TripleTenSPRINT4AvrahmPerton/Sub-categorysavg_ProfitandReturnrate?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Key Features
 *   **Profitability Tiering:** Categorization of high-performing sub-categories like **Copiers ($76,304)** and **Phones ($56,053)** versus loss-leading categories such as **Tables (-$23,067)**.
 *   **Logistics Optimization:** Analysis of shipping modes showing that **Phones and Chairs** are most profitable in **Standard Class**, while **Tables** consistently lose money in that same mode.
