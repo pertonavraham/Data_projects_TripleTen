@@ -9,5 +9,5 @@ Projects I made while in TripleTen bootcamp.
 | 3 | [E-Commerce Conversion & Retention Analysis](https://github.com/pertonavraham/Data_projects_TripleTen/edit/main/E%20commerce%20/README.md) | The project was to make conversion funnel from initial view to final purchase, as well as long-term customer retention through cohort analysis|
 | 4 | [Tableau Worksheets Business Strategies Analysis](https://github.com/pertonavraham/Data_projects_TripleTen/edit/main/README.md) | Focused Marketing Customer Retantion Strategies | The project task was to create a professional report suitable for stakeholders |
 | 5 | [Tableau Business Operations Analysis](https://github.com/pertonavraham/Data_projects_TripleTen/tree/main/Tableau%20Strategic%20Business%20Operations%20Analysis) | Tableau Dashboard comprehensive data analysis and strategic roadmap for optimizing business profitability and reducing operational loss |
-| 6 | Pivot tables & Charts | The project was to make visulizations based upon pivot tables to be able to make educated assessments|
-| 7 | Pivot tables & Charts | The project was to make visulizations based upon pivot tables to be able to make educated assessments|
+| 6 | [Shopify app Power BI report]() | Review the landscape of apps on the Shopify platform. Made a Power BI report visualizations to figure out what key factors play into the success of a Shopify app.|
+| 7 | [Consumer Behavior Analysis Dashboard]() | Made visulizations based upon pivot tables to be able to make educated assessments|
