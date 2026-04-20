@@ -1,6 +1,7 @@
 # App Ecosystem Sentiment & Developer Responsiveness Analysis
 
 This repository contains a comprehensive Business Intelligence (BI) project focused on analyzing the relationship between user sentiment and developer engagement across a large-scale app marketplace. By correlating review reliability with developer response rates, the project identifies key drivers of app success and user trust.
+By benchmarking developer engagement, the project demonstrated that proactive responsiveness and "helpful review" volume (averaging 5.48) are the primary drivers of sustained sentiment for market leaders like Hextom and Privy.
 
 ## Project Overview
 The primary objective of this analysis is to evaluate the "App Landscape" through the lens of user reviews and developer interaction. The study explores how responsiveness (developer answers) impacts average ratings and identifies top-tier developers who lead in both volume and sentiment.
