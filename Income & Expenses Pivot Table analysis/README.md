@@ -5,6 +5,7 @@ This repository contains a specialized financial analysis of B2B customer transa
 ## Project Overview
 The primary objective of this analysis is to transform raw transaction logs into a structured financial model. By applying real-time exchange rates (USD to GBP/EUR) and segmenting data by service type and operation (Income vs. Expense), the project provides a clear view of cash flow and service-specific performance.
 
+Spreadsheet Link: https://docs.google.com/spreadsheets/d/1zzoDz5sPPQYAvb_JqgmWktDzuvwiEUdqpBP51fkNxsg/edit?usp=sharing
 ## Key Features
 *   **Currency Normalization:** Automated conversion of USD subtotals into GBP and EUR using fixed exchange rates (0.89 and 0.92, respectively).
 *   **Operational Segmentation:** Categorization of entries into **Income** (e.g., Standard Haircut, Senior Haircut) and **Expenses** (e.g., Scrunchies, Towels, Shampoo).
