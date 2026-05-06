@@ -1,0 +1,36 @@
+# 📊 User Login Activity Dataset
+A comprehensive record of user authentication logs, including login timestamps, IP addresses, account status, and profile metadata.
+
+## 📁 Dataset Overview
+This repository contains a structured dataset of user activities. The data focuses on tracking login patterns and account health.
+
+
+| Feature | Description |
+| :--- | :--- |
+| **Account Status** | Boolean indicating if the account is currently active. |
+| **Login Metadata** | Precise timestamps and source IP addresses. |
+| **User Profiles** | Unique usernames and hashed/masked passwords. |
+| **Activity Tracking** | Calculation of months since last login and 4-year inactivity flags. |
+
+## 🚀 Data Preview
+Below is a sample of the records found within the dataset:
+
+- **cindy46**: Last login on 9/30/2022 from 10.231.15.246 (Active: TRUE)
+- **tclark**: Last login on 9/20/2022 from 10.50.214.195 (Active: FALSE)
+- **jcarey**: Last login on 9/12/2022 from 172.26.177. (Active: TRUE)
+
+## 🛠️ Data Structure
+The dataset is organized with the following columns:
+*   `account_active`: (Boolean) Status of the user account.
+*   `last_login_date`: (Timestamp) The last recorded entry.
+*   `user_name`: (String) Unique identifier for the user.
+*   `months_since_last_login`: (Integer) Time elapsed since the last session.
+*   `profile_picture`: (URL) Link to the user's hosted avatar.
+
+## 📈 Key Statistics
+- **Total Records Analyzed**: ~35 users.
+- **Inactivity Threshold**: Accounts are flagged if inactive for **4 years**.
+- **Most Recent Log**: September 30, 2022.
+
+## 📜 License
+This dataset is provided for **educational and project demonstration** purposes only.
