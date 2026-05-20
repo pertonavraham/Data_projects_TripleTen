@@ -2,6 +2,8 @@
 
 A comprehensive data analysis project examining company invoice history, correction trends, and monthly distribution totals. 
 
+The dataset tracks a total revenue architecture of **$90,973.42 Grand Total** distributed across **12 unique customers**. It aggregates financial performance across cyclical periods, showing a monthly average of **$7,581.12** fueled by distinct monthly totals like Month 3's peak of **$9,639.96**.
+
 ## 📊 Visual Overview
 Below is the summary visualization of invoice trends generated from our dataset:
 
@@ -10,7 +12,7 @@ Below is the summary visualization of invoice trends generated from our dataset:
 ---
 
 ## 📈 Key Metrics Summary
-Based on our verified transaction logs, the platform managed **$90,973.42 in Grand Total revenue** over a total of **12 Unique Customers**.
+Based on our verified transaction logs, the platform managed the following high-level financial markers:
 
 
 | Metric | Value |
@@ -18,6 +20,35 @@ Based on our verified transaction logs, the platform managed **$90,973.42 in Gra
 | **Grand Total Revenue** | $90,973.42 |
 | **Unique Customer Count** | 12 |
 | **Average Monthly Total** | $7,581.12 |
+
+---
+
+## 📊 Financial Variance & Analytics
+Discrepancies between the original invoice amounts and final corrected figures introduced noticeable shifts in baseline revenue:
+
+
+| Month | Base Invoice | Corrected Amount | Variance Shift | Growth Rate |
+| :--- | :--- | :--- | :--- | :--- |
+| **Month 2** | $3,784.38 | $4,234.38 | **+$450.00** | Baseline |
+| **Month 3** | $8,889.96 | $9,639.96 | **+$750.00** | **+127.66%** |
+| **Month 4** | $4,942.59 | $7,517.62 | **+$2,575.03** | **-22.02%** |
+
+### 🔍 Specific Correction Drivers
+* **Month 3 Cohort**: Every customer in Month 3 experienced an identical **+$150.00 flat increase** over their base invoice amounts (e.g., Boris Wyrick adjusted from $2,597.84 to $2,747.84).
+* **Charles Edminson**: The final total includes a steep **-$850.00 downward correction** (adjusted down to $276.56 from the original $1,126.56 invoice).
+* **Grey Takeda & Cedric Salzwedel**: Revenue experienced a **+$150.00 upward adjustment** for each account.
+
+---
+
+## 🧮 Mathematical Formulas Used
+The system calculates these shifts using standard financial ledger equations:
+
+```latex
+Variance Shift = Corrected Amount - Base Invoice Amount
+```
+```latex
+Growth Rate (%) = ((Current Month Total - Previous Month Total) / Previous Month Total) * 100
+```
 
 ---
 
